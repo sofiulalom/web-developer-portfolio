@@ -1,7 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+
 body{
   font-family: 'Lato', sans-serif;
   font-family: "Open Sans", sans-serif;
@@ -25,6 +22,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
     
 }
 
@@ -45,4 +43,17 @@ nav a{
     text-decoration: none;
     color: #474747;
 
+}
+/* header releted styl*/
+.header{
+    background-color: #Fff8f3;
+}
+.banner{
+    padding: 30px 30px 30px  150px;
+    display: flex;
+    align-items: center;
+}
+.profile-pic{
+    width: 500px;
+    
 }
