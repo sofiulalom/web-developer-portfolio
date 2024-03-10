@@ -87,6 +87,10 @@ nav a{
     margin-top: 5px;
     margin-bottom: 20px;
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 .banner-description{
     font-size: 30px;
    margin-top: 5px;
@@ -94,7 +98,19 @@ nav a{
 
 .about{
     padding: 130px;
+    border-radius: 10px;
+    color: #Fff8f3;
+    margin: 130px 0;
    
     
 
 }
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    color: #181818;
+}
+.about-info{
+    text-align: center;
+}
+
