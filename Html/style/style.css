@@ -113,4 +113,15 @@ main{
 .about-info{
     text-align: center;
 }
+#what-i-do-section-info{
+    margin: 30px 150px;
+}
+/*what i do skills section */
+.skils-contaier{
+  display: flex;
+  justify-content: space-around;
+}
+.skill{
+    margin-top: 30px;
+}
 
